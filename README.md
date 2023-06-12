@@ -4,36 +4,36 @@ The predictions were made using 6 popular Machine Learning.
 
 ## Table of Contents
 
-1. [Environment Setup](#environment-setup)
-   - [Importing Libraries](#importing-libraries)
-   - [Loading the Data](#loading-the-data)
+1. Environment Setup
+   - Importing Libraries
+   - Loading the Data
    
-2. [Initial Assessment](#initial-assessment)
-   - [Overview](#overview)
-   - [Descriptive Statistics](#descriptive-statistics)
+2. Initial Assessment
+   - Overview
+   - Descriptive Statistics
    
-3. [Data Processing](#data-processing)
-   - [Basic Cleanup](#basic-cleanup)
-   - [Missing Values](#missing-values)
-   - [Outlier Detection](#outlier-detection)
+3. Data Processing
+   - Basic Cleanup
+   - Missing Values
+   - Outlier Detection
    
-4. [Feature Engineering](#feature-engineering)
-   - [Working with Date and Time Variables](#working-with-date-and-time-variables)
-   - [Handling Outliers - Feature Scaling](#handling-outliers---feature-scaling)
-   - [Categorical Encoding](#categorical-encoding)
+4. Feature Engineering
+   - Working with Date and Time Variables
+   - Handling Outliers - Feature Scaling
+   - Categorical Encoding
    
-5. [Correlation Analysis](#correlation-analysis)
+5. Correlation Analysis
 
-6. [Models](#models)
-   - [Linear Regression](#linear-regression)
-   - [KNN](#knn)
-   - [Random Forest](#random-forest)
-   - [SVM](#svm)
-   - [Decision Tree](#decision-tree)
-   - [Clustering (Extra)](#clustering-extra)
+6. Models
+   - Linear Regression
+   - KNN
+   - Random Forest
+   - SVM
+   - Decision Tree
+   - Clustering (Extra)
    
-7. [Model Evaluation](#model-evaluation)
-   - [Model Comparison](#model-comparison)
-   - [Model Evaluation](#model-evaluation)
+7. Model Evaluation
+   - Model Comparison
+   - Model Evaluation
    
-8. [Conclusion](#conclusion)
+8. Conclusion
