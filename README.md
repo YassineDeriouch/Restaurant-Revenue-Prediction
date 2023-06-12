@@ -1,5 +1,5 @@
 # Restaurant-Revenue-Prediction
-This repository contains a Machine Learning project about Restaurant revenue prediction, made by four 4th year Software engineering students made using python - jupyter notebook
+This repository contains a Machine Learning project about Restaurant revenue prediction, made by four 4th year Software engineering students made using python - jupyter notebook.
 The predictions were made using 6 popular Machine Learning.
 
 ## Table of Contents
